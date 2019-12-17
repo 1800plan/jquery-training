@@ -1,6 +1,6 @@
 # jquery-training
 
-Work in progress, but here's what's in right now:
+Work in progress...
 - Click button (with city name) and get finnkino data from that city
 - hide assignment-div from view
 
