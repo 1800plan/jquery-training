@@ -13,5 +13,5 @@ ohjelman vaiheet:
 // onload --> näyttää Espoon näytöksiä
 
 #TODO
-1.luo table selkeämmäksi (enemmän dataa + kuvia)
+1. luo table selkeämmäksi (enemmän dataa + kuvia)
 2. lisää teatterit select-elementtiin
