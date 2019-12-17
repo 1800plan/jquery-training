@@ -1,8 +1,11 @@
 # jquery-training
-
+--- --- ---
 Work in progress...
 - Click button (with city name) and get finnkino data from that city
 - hide assignment-div from view
+--- ---- --- 
+
+Ohjelma hakee Finnkinon XML-dataa & näyttää tietoja tulevista elokuvista, elokuvateattereista yms. 
 
 ohjelman vaiheet:
 1. select-tagista valitaan ensimmäiseksi haluttu kaupunki
